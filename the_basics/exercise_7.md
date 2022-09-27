@@ -1,0 +1,1 @@
+Since an array's index is sequential starting from 0 until the last element, an index that's greater than the length - 1 will return nothing since there is no element. In javascript that will be undefined.
